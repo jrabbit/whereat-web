@@ -2,6 +2,7 @@
 
  * [nodejs](https://nodejs.org/) & `npm`
  * [git](https://git-scm.com/)
+ * 150~ MB of free disk space
 
 # Installing
 	* clone this repository. `git clone $URL`
